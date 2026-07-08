@@ -7,11 +7,6 @@ Project Modules
 - Book Catalog
 - Borrowing
 - Returning
-- Inventory Management
-- Reports
-- User Accounts
-
- main
 
 Development Team
 Student Name: Blue F. Pineda
